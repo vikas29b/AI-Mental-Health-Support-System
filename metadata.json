@@ -1,0 +1,6 @@
+{
+  "name": "AegisMind - Enterprise Mental Health AI Support System",
+  "description": "Enterprise-grade conversational mental health support system featuring sub-second crisis detection, dual-pass safety guardrails, CBT reframing, and an asynchronous Power BI analytics data warehouse pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
